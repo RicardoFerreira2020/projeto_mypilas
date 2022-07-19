@@ -1,0 +1,22 @@
+html {
+    font-size: 62.5%; /* equivale à 10px do tamanho padrao que é 16px */
+}
+
+body {
+    /* Ordem das propriedades css */
+    
+    /* 1º - Posicionamento */
+
+    /* 2º - Display e Box Model */
+    margin: 0;
+
+    /* 3º - Cores */
+
+    /* 4º - Texto */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+
+    /* 5º - Outros */
+    
+    
+}
